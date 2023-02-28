@@ -5,3 +5,4 @@ Pillow
 python-decouple
 Pillow
 djangorestframework_simplejwt
+dj-config-url
